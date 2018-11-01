@@ -1096,7 +1096,7 @@ line
 
 
 
-![linechart](Rush Hour Analysis.png)
+![linechart](https://github.com/brandonchow1997/LA-Metro-Bike-Share-Analysis/blob/master/Rush Hour Analysis.png)
 
 
 ### Conclusion
@@ -1632,10 +1632,10 @@ radar.add("long-time", v3, is_area_show=False, legend_selectedmode='single')
 radar.add("very-long-time", v4, is_area_show=False, legend_selectedmode='single')
 radar
 ```
-![Radar chart1](Radar chart.png)
-![Radar chart2](Radar chart (1).png)
-![Radar chart3](Radar chart (2).png)
-![Radar chart4](Radar chart (3).png)
+![Radar chart1](https://github.com/brandonchow1997/LA-Metro-Bike-Share-Analysis/blob/master/Radar chart.png)
+![Radar chart2](https://github.com/brandonchow1997/LA-Metro-Bike-Share-Analysis/blob/master/Radar chart (1).png)
+![Radar chart3](https://github.com/brandonchow1997/LA-Metro-Bike-Share-Analysis/blob/master/Radar chart (2).png)
+![Radar chart4](https://github.com/brandonchow1997/LA-Metro-Bike-Share-Analysis/blob/master/Radar chart (3).png)
 
 
 
